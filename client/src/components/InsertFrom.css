@@ -1,0 +1,10 @@
+input[type="text"] {
+  padding: 4px;
+  padding-right: 10;
+  border-radius: 5px;
+  border: gray 2px solid;
+}
+
+input[type="text"]:focus {
+  border: none;
+}

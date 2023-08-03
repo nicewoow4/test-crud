@@ -1,0 +1,15 @@
+.paginationcustom {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.paginationcustom  ul li.page-item.active span.page-link {
+    background-color: rgb(160, 11, 11);
+   
+}
+
+.paginationcustom  ul li.page-item a.page-link {
+    background-color:whitesmoke;
+   color: black;
+}
